@@ -1,0 +1,110 @@
+{
+    "C11": {
+        "estado": "RO",
+        "casosAcumulados": 15827
+    },
+    "C12": {
+        "estado": "AC",
+        "casosAcumulados": 11539
+    },
+    "C13": {
+        "estado": "AM",
+        "casosAcumulados": 63731
+    },
+    "C14": {
+        "estado": "RR",
+        "casosAcumulados": 8188
+    },
+    "C15": {
+        "estado": "PA",
+        "casosAcumulados": 86020
+    },
+    "C16": {
+        "estado": "AP",
+        "casosAcumulados": 24682
+    },
+    "C17": {
+        "estado": "TO",
+        "casosAcumulados": 8477
+    },
+    "C21": {
+        "estado": "MA",
+        "casosAcumulados": 70689
+    },
+    "C22": {
+        "estado": "PI",
+        "casosAcumulados": 14476
+    },
+    "C23": {
+        "estado": "CE",
+        "casosAcumulados": 94158
+    },
+    "C24": {
+        "estado": "RN",
+        "casosAcumulados": 19957
+    },
+    "C25": {
+        "estado": "PB",
+        "casosAcumulados": 37253
+    },
+    "C26": {
+        "estado": "PE",
+        "casosAcumulados": 52494
+    },
+    "C27": {
+        "estado": "AL",
+        "casosAcumulados": 29395
+    },
+    "C28": {
+        "estado": "SE",
+        "casosAcumulados": 19384
+    },
+    "C29": {
+        "estado": "BA",
+        "casosAcumulados": 47086
+    },
+    "C31": {
+        "estado": "MG",
+        "casosAcumulados": 28918
+    },
+    "C32": {
+        "estado": "ES",
+        "casosAcumulados": 35784
+    },
+    "C33": {
+        "estado": "RJ",
+        "casosAcumulados": 97572
+    },
+    "C35": {
+        "estado": "SP",
+        "casosAcumulados": 221973
+    },
+    "C41": {
+        "estado": "PR",
+        "casosAcumulados": 15124
+    },
+    "C42": {
+        "estado": "SC",
+        "casosAcumulados": 17937
+    },
+    "C43": {
+        "estado": "RS",
+        "casosAcumulados": 19710
+    },
+    "C50": {
+        "estado": "MS",
+        "casosAcumulados": 5391
+    },
+    "C51": {
+        "estado": "MT",
+        "casosAcumulados": 10021
+    },
+    "C52": {
+        "estado": "GO",
+        "casosAcumulados": 16536
+    },
+    "C53": {
+        "estado": "DF",
+        "casosAcumulados": 34148
+    }
+}
