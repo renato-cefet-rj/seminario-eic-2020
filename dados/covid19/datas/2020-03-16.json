@@ -1,0 +1,110 @@
+{
+    "11": {
+        "estado": "RO",
+        "casosAcumulados": 0
+    },
+    "12": {
+        "estado": "AC",
+        "casosAcumulados": 0
+    },
+    "13": {
+        "estado": "AM",
+        "casosAcumulados": 1
+    },
+    "14": {
+        "estado": "RR",
+        "casosAcumulados": 0
+    },
+    "15": {
+        "estado": "PA",
+        "casosAcumulados": 0
+    },
+    "16": {
+        "estado": "AP",
+        "casosAcumulados": 0
+    },
+    "17": {
+        "estado": "TO",
+        "casosAcumulados": 0
+    },
+    "21": {
+        "estado": "MA",
+        "casosAcumulados": 0
+    },
+    "22": {
+        "estado": "PI",
+        "casosAcumulados": 0
+    },
+    "23": {
+        "estado": "CE",
+        "casosAcumulados": 0
+    },
+    "24": {
+        "estado": "RN",
+        "casosAcumulados": 1
+    },
+    "25": {
+        "estado": "PB",
+        "casosAcumulados": 0
+    },
+    "26": {
+        "estado": "PE",
+        "casosAcumulados": 2
+    },
+    "27": {
+        "estado": "AL",
+        "casosAcumulados": 1
+    },
+    "28": {
+        "estado": "SE",
+        "casosAcumulados": 1
+    },
+    "29": {
+        "estado": "BA",
+        "casosAcumulados": 2
+    },
+    "31": {
+        "estado": "MG",
+        "casosAcumulados": 5
+    },
+    "32": {
+        "estado": "ES",
+        "casosAcumulados": 1
+    },
+    "33": {
+        "estado": "RJ",
+        "casosAcumulados": 31
+    },
+    "35": {
+        "estado": "SP",
+        "casosAcumulados": 152
+    },
+    "41": {
+        "estado": "PR",
+        "casosAcumulados": 6
+    },
+    "42": {
+        "estado": "SC",
+        "casosAcumulados": 7
+    },
+    "43": {
+        "estado": "RS",
+        "casosAcumulados": 6
+    },
+    "50": {
+        "estado": "MS",
+        "casosAcumulados": 2
+    },
+    "51": {
+        "estado": "MT",
+        "casosAcumulados": 0
+    },
+    "52": {
+        "estado": "GO",
+        "casosAcumulados": 3
+    },
+    "53": {
+        "estado": "DF",
+        "casosAcumulados": 13
+    }
+}

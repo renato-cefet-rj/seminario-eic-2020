@@ -1,0 +1,110 @@
+{
+    "11": {
+        "estado": "RO",
+        "casosAcumulados": 5713
+    },
+    "12": {
+        "estado": "AC",
+        "casosAcumulados": 6679
+    },
+    "13": {
+        "estado": "AM",
+        "casosAcumulados": 44347
+    },
+    "14": {
+        "estado": "RR",
+        "casosAcumulados": 4143
+    },
+    "15": {
+        "estado": "PA",
+        "casosAcumulados": 44774
+    },
+    "16": {
+        "estado": "AP",
+        "casosAcumulados": 11107
+    },
+    "17": {
+        "estado": "TO",
+        "casosAcumulados": 4698
+    },
+    "21": {
+        "estado": "MA",
+        "casosAcumulados": 38174
+    },
+    "22": {
+        "estado": "PI",
+        "casosAcumulados": 5828
+    },
+    "23": {
+        "estado": "CE",
+        "casosAcumulados": 56056
+    },
+    "24": {
+        "estado": "RN",
+        "casosAcumulados": 9149
+    },
+    "25": {
+        "estado": "PB",
+        "casosAcumulados": 16018
+    },
+    "26": {
+        "estado": "PE",
+        "casosAcumulados": 36463
+    },
+    "27": {
+        "estado": "AL",
+        "casosAcumulados": 12407
+    },
+    "28": {
+        "estado": "SE",
+        "casosAcumulados": 7989
+    },
+    "29": {
+        "estado": "BA",
+        "casosAcumulados": 22451
+    },
+    "31": {
+        "estado": "MG",
+        "casosAcumulados": 12010
+    },
+    "32": {
+        "estado": "ES",
+        "casosAcumulados": 16121
+    },
+    "33": {
+        "estado": "RJ",
+        "casosAcumulados": 59240
+    },
+    "35": {
+        "estado": "SP",
+        "casosAcumulados": 123483
+    },
+    "41": {
+        "estado": "PR",
+        "casosAcumulados": 5494
+    },
+    "42": {
+        "estado": "SC",
+        "casosAcumulados": 10034
+    },
+    "43": {
+        "estado": "RS",
+        "casosAcumulados": 10398
+    },
+    "50": {
+        "estado": "MS",
+        "casosAcumulados": 1802
+    },
+    "51": {
+        "estado": "MT",
+        "casosAcumulados": 2848
+    },
+    "52": {
+        "estado": "GO",
+        "casosAcumulados": 4570
+    },
+    "53": {
+        "estado": "DF",
+        "casosAcumulados": 12020
+    }
+}

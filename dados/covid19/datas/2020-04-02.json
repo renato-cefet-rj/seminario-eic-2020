@@ -1,0 +1,110 @@
+{
+    "11": {
+        "estado": "RO",
+        "casosAcumulados": 10
+    },
+    "12": {
+        "estado": "AC",
+        "casosAcumulados": 43
+    },
+    "13": {
+        "estado": "AM",
+        "casosAcumulados": 229
+    },
+    "14": {
+        "estado": "RR",
+        "casosAcumulados": 26
+    },
+    "15": {
+        "estado": "PA",
+        "casosAcumulados": 46
+    },
+    "16": {
+        "estado": "AP",
+        "casosAcumulados": 11
+    },
+    "17": {
+        "estado": "TO",
+        "casosAcumulados": 12
+    },
+    "21": {
+        "estado": "MA",
+        "casosAcumulados": 71
+    },
+    "22": {
+        "estado": "PI",
+        "casosAcumulados": 19
+    },
+    "23": {
+        "estado": "CE",
+        "casosAcumulados": 550
+    },
+    "24": {
+        "estado": "RN",
+        "casosAcumulados": 105
+    },
+    "25": {
+        "estado": "PB",
+        "casosAcumulados": 21
+    },
+    "26": {
+        "estado": "PE",
+        "casosAcumulados": 106
+    },
+    "27": {
+        "estado": "AL",
+        "casosAcumulados": 18
+    },
+    "28": {
+        "estado": "SE",
+        "casosAcumulados": 23
+    },
+    "29": {
+        "estado": "BA",
+        "casosAcumulados": 267
+    },
+    "31": {
+        "estado": "MG",
+        "casosAcumulados": 370
+    },
+    "32": {
+        "estado": "ES",
+        "casosAcumulados": 120
+    },
+    "33": {
+        "estado": "RJ",
+        "casosAcumulados": 992
+    },
+    "35": {
+        "estado": "SP",
+        "casosAcumulados": 3506
+    },
+    "41": {
+        "estado": "PR",
+        "casosAcumulados": 252
+    },
+    "42": {
+        "estado": "SC",
+        "casosAcumulados": 247
+    },
+    "43": {
+        "estado": "RS",
+        "casosAcumulados": 334
+    },
+    "50": {
+        "estado": "MS",
+        "casosAcumulados": 53
+    },
+    "51": {
+        "estado": "MT",
+        "casosAcumulados": 36
+    },
+    "52": {
+        "estado": "GO",
+        "casosAcumulados": 73
+    },
+    "53": {
+        "estado": "DF",
+        "casosAcumulados": 370
+    }
+}
